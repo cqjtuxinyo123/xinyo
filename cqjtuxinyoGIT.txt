@@ -1,0 +1,4 @@
+Git项目地址（Url）:
+https://github.com/cqjtuxinyo123/xinyo.git
+username:cqjtuxinyo
+password:cqjtuxinyo2015
